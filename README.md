@@ -1,10 +1,15 @@
+![Logo](https://github.com/PollySantos/PollySantos/blob/main/banner.png?raw=true)
 
-<p align="center">OLÁ 👋 ! </p>
+<br />
+
+<p align="center">OLÁ 👋 !</p>
 
 <p align="center">Meu nome é Poliana Santos, sou estudante de Análise e Desenvolvimento de Sistemas.
 Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhir ser uma Dev. </p>
- 
+
 ##
+
+<br />
 
 <div align="center">
   <a href="https://github.com/ThatianeDeboleto">
@@ -21,7 +26,7 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
   <img align="center" alt="polly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="polly-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
+  <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
    
 </div>
   
@@ -36,9 +41,9 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 <br />
 
 <a href="https://www.linkedin.com/in/polianasantos2022/">
-  <img align="right" alt="polly- linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img align="right" alt="polly- linkedin" width="40px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/338bb84499eb511f3fa2df9f5a5b1a113fff4513/icons8-linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_.zsantos/">
-  <img align="right" alt="polly-instagram" width="35px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/main/icons8-instagram.svg" />
+  <img align="right" alt="polly-instagram" width="40px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/main/icons8-instagram.svg" />
 </a>
 
