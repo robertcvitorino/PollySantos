@@ -1,18 +1,19 @@
-## Olá eu sou a Poliana Santos 👋
+## Olá! Eu sou a Poliana Santos 👋
 
-- 🔭 Futura Dev Full Stack
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas - FAM
-- 💬 Sou Analista de qualidade em transição de Carreira.
-- 📫 Moro em Navegantes - SC
-- 😄 Pronouns: ela/dela
-
-
+ Futura Dev Full Stack, sou estudando Análise e Desenvolvimento de Sistemas.
+ 
+ 
+ 
+ 
+ 
 
 <div align="center">
   <a href="https://github.com/PollySantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+  ###  Tecnologias que estou aprendendo!
   
   <div style="display: inline_block"><br>
   <img align="center" alt="polly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
