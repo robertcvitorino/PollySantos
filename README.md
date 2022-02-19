@@ -1,36 +1,44 @@
 
+<p align="center">OLÁ 👋 ! </p>
 
-## Olá! Eu sou a Poliana Santos 👋
+<p align="center">Meu nome é Poliana Santos, sou estudante de Análise e Desenvolvimento de Sistemas.
+Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhir ser uma Dev. </p>
+ 
+##
 
-
- Futura Dev Full Stack 🚀. Estudando de Análise e Desenvolvimento de Sistemas.
- 
- 
- 
 <div align="center">
-  <a href="https://github.com/PollySantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ThatianeDeboleto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
-  ###  Tecnologias que estou aprendendo!
+  ### ⚙️Estudando!
   
   <div style="display: inline_block"><br>
   <img align="center" alt="polly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="polly-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="polly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="polly-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
+   
+</div>
   
   ##
  
-</div>
-  <a href = "mailto:polianasantos@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/polianasantos2022" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
- 
+<div>
+
 ![Snake animation](https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
+ 
+
+ <br />
+<br />
+
+<a href="https://www.linkedin.com/in/polianasantos2022/">
+  <img align="right" alt="polly- linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.instagram.com/_.zsantos/">
+  <img align="right" alt="polly-instagram" width="35px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/main/icons8-instagram.svg" />
+</a>
+
