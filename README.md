@@ -1,4 +1,4 @@
-![Logo](https://github.com/PollySantos/PollySantos/blob/main/banner.png?raw=true)
+![Logo](https://github.com/PollySantos/PollySantos/blob/main/My%20Banner.jpeg?raw=true)
 
 <br />
 
