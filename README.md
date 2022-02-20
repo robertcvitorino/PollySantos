@@ -5,7 +5,7 @@
 <p align="center">OLÁ 👋 !</p>
 
 <p align="center">Meu nome é Poliana Santos, sou estudante de Análise e Desenvolvimento de Sistemas.
-Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhir ser uma Dev. </p>
+Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhi me tornar uma desenvolvedora de excelência. </p>
 
 ##
 
