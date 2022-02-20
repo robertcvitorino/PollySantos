@@ -12,7 +12,7 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 <br />
 
 <div align="center">
-  <a href="https://github.com/ThatianeDeboleto">
+  <a href="https://github.com/pollysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
